@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/HARSHITK48.github.io/projaries.git/static/css/main.6342e96c.chunk.css",
-    "main.js": "/HARSHITK48.github.io/projaries.git/static/js/main.e3904f99.chunk.js",
-    "main.js.map": "/HARSHITK48.github.io/projaries.git/static/js/main.e3904f99.chunk.js.map",
-    "runtime-main.js": "/HARSHITK48.github.io/projaries.git/static/js/runtime-main.f4d2ddca.js",
-    "runtime-main.js.map": "/HARSHITK48.github.io/projaries.git/static/js/runtime-main.f4d2ddca.js.map",
-    "static/js/2.755954aa.chunk.js": "/HARSHITK48.github.io/projaries.git/static/js/2.755954aa.chunk.js",
-    "static/js/2.755954aa.chunk.js.map": "/HARSHITK48.github.io/projaries.git/static/js/2.755954aa.chunk.js.map",
-    "index.html": "/HARSHITK48.github.io/projaries.git/index.html",
-    "static/css/main.6342e96c.chunk.css.map": "/HARSHITK48.github.io/projaries.git/static/css/main.6342e96c.chunk.css.map",
-    "static/js/2.755954aa.chunk.js.LICENSE.txt": "/HARSHITK48.github.io/projaries.git/static/js/2.755954aa.chunk.js.LICENSE.txt"
+    "main.css": "/HARSHITK48/HARSHITK48.github.io.git/static/css/main.6342e96c.chunk.css",
+    "main.js": "/HARSHITK48/HARSHITK48.github.io.git/static/js/main.e3904f99.chunk.js",
+    "main.js.map": "/HARSHITK48/HARSHITK48.github.io.git/static/js/main.e3904f99.chunk.js.map",
+    "runtime-main.js": "/HARSHITK48/HARSHITK48.github.io.git/static/js/runtime-main.9c22b192.js",
+    "runtime-main.js.map": "/HARSHITK48/HARSHITK48.github.io.git/static/js/runtime-main.9c22b192.js.map",
+    "static/js/2.755954aa.chunk.js": "/HARSHITK48/HARSHITK48.github.io.git/static/js/2.755954aa.chunk.js",
+    "static/js/2.755954aa.chunk.js.map": "/HARSHITK48/HARSHITK48.github.io.git/static/js/2.755954aa.chunk.js.map",
+    "index.html": "/HARSHITK48/HARSHITK48.github.io.git/index.html",
+    "static/css/main.6342e96c.chunk.css.map": "/HARSHITK48/HARSHITK48.github.io.git/static/css/main.6342e96c.chunk.css.map",
+    "static/js/2.755954aa.chunk.js.LICENSE.txt": "/HARSHITK48/HARSHITK48.github.io.git/static/js/2.755954aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4d2ddca.js",
+    "static/js/runtime-main.9c22b192.js",
     "static/js/2.755954aa.chunk.js",
     "static/css/main.6342e96c.chunk.css",
     "static/js/main.e3904f99.chunk.js"
